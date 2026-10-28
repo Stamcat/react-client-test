@@ -1,4 +1,4 @@
-# Agent Instructions — react-client-template
+# Agent Instructions — react-client-test
 
 This file is the canonical source of AI coding instructions for this repository. `CLAUDE.md`,
 `.github/copilot-instructions.md`, and `.cursor/rules/app-standards.mdc` all point back to this

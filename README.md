@@ -1,4 +1,4 @@
-# react-client-template
+# react-client-test
 
 A base project template for React client applications: a Vite + React + TypeScript app
 pre-wired with the code-quality tooling and AI coding-agent instructions a project needs from
